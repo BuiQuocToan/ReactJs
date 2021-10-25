@@ -1,0 +1,15 @@
+li a:hover {
+  background-color: #7ec0ee;
+}
+ul.a {
+  list-style-type: circle;
+}
+.buttonContainer {
+  text-align: center;
+}
+.buttonContainer .btn {
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+  margin-bottom: 40px;
+  background-color: #17a2b8;
+}
